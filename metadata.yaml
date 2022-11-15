@@ -1,0 +1,31 @@
+_repo: Heraldry-as-art-An-account-of-its-development-and-practice-chiefly-in-England_69298
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eve, G. W. (George William)
+    alias: Eve, George William
+    birthdate: 1855
+    deathdate: 1914
+    gutenberg_agent_id: '54917'
+    url: http://www.gutenberg.org/2009/agents/54917
+    wikipedia: https://en.wikipedia.org/wiki/George_Eve
+description: ''
+gutenberg_issued: '2022-11-06'
+identifiers:
+  gutenberg: '69298'
+language: en
+pgterms:marc904: https://archive.org/details/heraldryasartacc00eveg
+pgterms:marc905: 20200901093433eve
+pgterms:marc906: '1907'
+pgterms:marc907: GB
+production_note: deaurider, Amber Black and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: 'United Kingdom: B. T. Batsford,1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Heraldry as art: An account of its development and practice chiefly in England'
+url: http://www.gutenberg.org/ebooks/69298
